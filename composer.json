@@ -1,0 +1,9 @@
+{
+  "name": "lightningsdk/font-awesome",
+  "type": "library",
+  "description": "Font awesome compiler/wrapper.",
+  "version": "1.0.0",
+  "require": {
+    "components/font-awesome": "^5.12"
+  }
+}
